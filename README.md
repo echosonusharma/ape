@@ -13,7 +13,7 @@ It's an interpreter that parse the source code, build an abstract syntax tree (A
 - tree representation
 - evaluator
 
-## Language features
+### Language features
 
 - C-like syntax
 - variable bindings
